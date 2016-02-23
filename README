@@ -1,0 +1,11 @@
+ini adalah catatan pribadi untuk menentukan tren baik atau tidak dalam IHSG 
+
+dalam git ini tidak ada perintah atau anjuran untuk beli atau jual, jadi anda tidak diperkenankan gunakan data ini sebagai alasan jual dan beli dalam perdagangan IHSG 
+
+chart ini mengunakan bantuan dari situs barchart.com dengan indikator SMA(20) dan SMA(80) + ADX(14)
+
+dan ini digunakan hanya sebagai bahan analisa
+
+shortcode bisa gunakan ini ::
+
+http://www.barchart.com/chart.php?sym=%24JKSE&style=technical&template=&p=DO&d=X&sd=&ed=&size=L&log=0&t=CANDLE&v=0&g=1&evnt=1&late=1&crosshairsOn=1&o1=&o2=&o3=&sh=200&indicators=SMA%2820%2C%29%3BSMA%2880%2C%29%3BADX%2814%2C26367%2C16724736%2C2186785%29&chartindicator_3_code=SMA&chartindicator_3_param_0=20&chartindicator_3_param_1=&chartindicator_4_code=SMA&chartindicator_4_param_0=80&chartindicator_4_param_1=&chartindicator_5_code=ADX&chartindicator_5_param_0=14&chartindicator_5_param_1=26367&chartindicator_5_param_2=16724736&chartindicator_5_param_3=2186785&addindicator=&submitted=1&fpage=&txtDate=#jump
